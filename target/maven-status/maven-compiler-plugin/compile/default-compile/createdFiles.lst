@@ -1,0 +1,4 @@
+com\example\voting\service\VotingService.class
+com\example\voting\VotingApplication.class
+com\example\voting\controller\VotingController.class
+com\example\voting\model\Candidate.class
