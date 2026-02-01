@@ -32,7 +32,7 @@ docker build -t voting-app .
 ## Docker Run
 docker run -p 8080:8080 voting-app
 
-
+DOCKER TAG: mesivayenduri/voting-app:tagname
 
  kubectl -n dev port-forward service/voting-dev 8080:8080
 
